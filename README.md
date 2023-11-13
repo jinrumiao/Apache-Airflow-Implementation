@@ -13,3 +13,6 @@
 
 4. Apache Airflow實作筆記-4 →
 [實現完整ETL](https://hackmd.io/@yvzFxr2YRsehhJKmPCxCOA/Sy7dKUZx6)
+
+5. Apache Airflow實作筆記-5 →
+[在ETL後加入預測模型](https://hackmd.io/@yvzFxr2YRsehhJKmPCxCOA/SJfuDGMQa)
