@@ -16,3 +16,6 @@
 
 5. Apache Airflow實作筆記-5 →
 [在ETL後加入預測模型](https://hackmd.io/@yvzFxr2YRsehhJKmPCxCOA/SJfuDGMQa)
+
+6. Apache Airflow實作筆記-6 →
+[模型的持續監控與訓練](https://hackmd.io/@yvzFxr2YRsehhJKmPCxCOA/HJSXXKx8T)
