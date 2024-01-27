@@ -19,3 +19,6 @@
 
 6. Apache Airflow實作筆記-6 →
 [模型的持續監控與訓練](https://hackmd.io/@yvzFxr2YRsehhJKmPCxCOA/HJSXXKx8T)
+
+7. Apache Airflow實作筆記-7 →
+[新增交易策略預測](https://hackmd.io/@yvzFxr2YRsehhJKmPCxCOA/HJThcalc6)
