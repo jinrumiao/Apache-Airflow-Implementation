@@ -31,10 +31,10 @@ SVM分類預測模型：比較多種機器學習分類模型得到的最佳分�
 
 自動化步驟：使用Apache Airflow套件實現
 
-架構圖：
-![Imgur](https://imgur.com/3T0uLLU.png)
+- 架構圖：
+![Imgur](https://imgur.com/TMPxiu2.png)
 
-步驟流程圖：
+- 步驟流程圖：
 ![Imgur](https://imgur.com/HPROqXA.png)
 
 
